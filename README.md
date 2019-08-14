@@ -1,5 +1,3 @@
-# the news should be free
-
 to add a snippet to chrome:
 1. view > developer > developer tools
 2. navigate to the sources tab
