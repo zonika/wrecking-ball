@@ -1,3 +1,9 @@
+Snippet Directory:
+- [New York Times Article](https://raw.githubusercontent.com/zonika/wrecking-ball/master/snippets/nyt-article.js)
+- [New York Times Election Coverage](https://raw.githubusercontent.com/zonika/wrecking-ball/master/snippets/nyt-election-coverage.js)
+- [Business of Fashion Article](https://raw.githubusercontent.com/zonika/wrecking-ball/master/snippets/bof.js)
+
+
 to add a snippet to chrome:
 1. view > developer > developer tools
 2. navigate to the sources tab
